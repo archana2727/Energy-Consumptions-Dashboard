@@ -42,6 +42,12 @@ Conclusion: Our data tells a compelling story of diverse energy consumption patt
 Implications: As we navigate this data landscape, it's clear that understanding and optimizing energy consumption are crucial, not just for cost control but also for sustainable practices. 
               Time for these cities to take a closer look at their energy portfolios and maybe adopt a few tricks from their counterparts!
 
+![Screenshot (92)](https://github.com/archana2727/Energy-Consumptions-Dashboard/assets/134779663/4a77ce61-b463-4b46-8979-4812ee55fdf3)
 
               
+![Screenshot (93)](https://github.com/archana2727/Energy-Consumptions-Dashboard/assets/134779663/d63a86b6-bf7e-4d7c-8e66-b3200c0f7640)
+
+![Screenshot (94)](https://github.com/archana2727/Energy-Consumptions-Dashboard/assets/134779663/087f6d09-3fb4-4806-b573-1e89a2517409)
+
+![Screenshot (95)](https://github.com/archana2727/Energy-Consumptions-Dashboard/assets/134779663/49510171-7808-469a-bdb9-030745564490)
 
