@@ -35,8 +35,13 @@ Step by Step Breakdown:
  Water's the Heavy Spender: Breaking down the categories, Water takes the crown for the highest Total Cost at a staggering $10,806,192. 
    🚿💰 Gas follows close behind at $3,011,011, while Electricity keeps the lights on with a Total Cost of $2,025,296.
 
- Conclusion: Our data tells a compelling story of diverse energy consumption patterns across these cities. 
-    New York, with its sky-high Total Cost, paints a stark contrast to Houston's more frugal energy usage. The category-wise breakdown sheds light on the major players – Water, Gas, and Electricity, each playing a crucial role in the overall expenditure.
+Conclusion: Our data tells a compelling story of diverse energy consumption patterns across these cities. 
+            New York, with its sky-high Total Cost, paints a stark contrast to Houston's more frugal energy usage. The category-wise breakdown sheds light on the major players – Water, Gas, and 
+            Electricity, each playing a crucial role in the overall expenditure.
+        
+Implications: As we navigate this data landscape, it's clear that understanding and optimizing energy consumption are crucial, not just for cost control but also for sustainable practices. 
+              Time for these cities to take a closer look at their energy portfolios and maybe adopt a few tricks from their counterparts!
 
- Implications: As we navigate this data landscape, it's clear that understanding and optimizing energy consumption are crucial, not just for cost control but also for sustainable practices. 
-    Time for these cities to take a closer look at their energy portfolios and maybe adopt a few tricks from their counterparts!
+
+              
+
